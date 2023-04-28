@@ -2,9 +2,9 @@
 React/Tailwindcss (frontend) - a responsive, one-page freelancer/portoflio website
 
 # Installation
-Run: 
-npm start - to download the necessary dependencies
-npm tailwindcss - to get tailwind, if you don t have it installed yet
-npx tailwindcss init
-
-That's it. Happy Hacking!
+Run: </br>
+npm start - to download the necessary dependencies </br>
+npm tailwindcss - to get tailwind, if you don t have it installed yet </br>
+npx tailwindcss init </br>
+</br>
+That's it. Happy Hacking! 
